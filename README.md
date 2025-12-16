@@ -51,3 +51,10 @@ pip install datasets transformers rouge-score nltk torch torchvision torchaudio
 
 ## Results
 The notebook tracks training and validation loss, utilizing a scheduler to reduce the learning rate on plateaus. It outputs ROUGE-1 and ROUGE-L scores for evaluation.
+
+
+## 👥 Contributors
+
+- [@mohumedraslan](https://github.com/mohumedraslan)
+- [@HamdyHegazy](https://github.com/HamdyHegazy)
+- [@eyadeltabal](https://github.com/eyadeltabal1)
